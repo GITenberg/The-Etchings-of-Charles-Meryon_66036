@@ -1,0 +1,30 @@
+_repo: The-Etchings-of-Charles-Meryon_66036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dodgson, Campbell
+    gutenberg_agent_id: '53608'
+    url: http://www.gutenberg.org/2009/agents/53608
+  editor:
+    agent_name: Holme, C. Geoffrey (Charles Geoffrey)
+    aliases:
+    - Holme, Charles Geoffrey
+    - Holme, C. G. (Charles Geoffrey)
+    - Holme, Geoffrey
+    birthdate: 1887
+    deathdate: 1954
+    gutenberg_agent_id: '25298'
+    url: http://www.gutenberg.org/2009/agents/25298
+description: ''
+gutenberg_issued: '2021-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Etchings of Charles Meryon
+url: http://www.gutenberg.org/ebooks/66036
